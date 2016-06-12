@@ -6,20 +6,30 @@ All gocode stuff
 - go packages
 
 
-test3
+DOCUMENTATION
+- https://godoc.org/
+
+TUTORIAL / SAMPLES
+    - https://github.com/GoesToEleven/GolangTraining
+    - https://golang.org/ref/spec#Declarations_and_scope
+	- http://www.golang-book.com/books/web/01-02
 
 ORGANISATION
-- https://golang.org/doc/code.html#Organization
+    - https://golang.org/doc/code.html#Organization
 
 WORKSPACE
     development
         goroot                                          # manually created base-structure
             bin/                                        # command executables
             pkg/                                        # packages objects
-            src/                                        # sources (github)
-                github.com/ApolloTitanGolang/hello
-            doc/                                        # documentation (github)
+            src/
+                github.com/ApolloTitanGolang/hello      # sources (github) hello - repository
+                github.com/ApolloTitanGolang/stringutil # sources (github) stringutil - repository
+            doc/                                        # documentation (github) doc - repository
                 github.com/ApolloTitanGolang/doc
+
+Environment
+    set paths in go libraries in preferences (set goroot and gopath)
 
 OPERATIONS
 
