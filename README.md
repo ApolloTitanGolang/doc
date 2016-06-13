@@ -14,8 +14,15 @@ TUTORIAL / SAMPLES
     - https://golang.org/ref/spec#Declarations_and_scope
 	- http://www.golang-book.com/books/web/01-02
 
+BLOGS
+    - http://dave.cheney.net/
+
+FORUM
+    - https://forum.golangbridge.org/
+
 ORGANISATION
     - https://golang.org/doc/code.html#Organization
+    - https://appliedgo.net/
 
 WORKSPACE
     development
