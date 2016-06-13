@@ -16,13 +16,14 @@ TUTORIAL / SAMPLES
 
 BLOGS
     - http://dave.cheney.net/
+    - https://appliedgo.net/
 
 FORUM
     - https://forum.golangbridge.org/
 
 ORGANISATION
     - https://golang.org/doc/code.html#Organization
-    - https://appliedgo.net/
+
 
 WORKSPACE
     development
