@@ -8,6 +8,7 @@ All gocode stuff
 
 DOCUMENTATION
 - https://godoc.org/
+- https://golang.org/ref/spec#Lexical_elements
 
 TUTORIAL / SAMPLES
     - https://github.com/GoesToEleven/GolangTraining
