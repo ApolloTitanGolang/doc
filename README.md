@@ -11,19 +11,19 @@ DOCUMENTATION
 - https://golang.org/ref/spec#Lexical_elements
 
 TUTORIAL / SAMPLES
-    - https://github.com/GoesToEleven/GolangTraining
-    - https://golang.org/ref/spec#Declarations_and_scope
-	- http://www.golang-book.com/books/web/01-02
+- https://github.com/GoesToEleven/GolangTraining
+- https://golang.org/ref/spec#Declarations_and_scope
+- http://www.golang-book.com/books/web/01-02
 
 BLOGS
-    - http://dave.cheney.net/
-    - https://appliedgo.net/
+- http://dave.cheney.net/
+- https://appliedgo.net/
 
 FORUM
-    - https://forum.golangbridge.org/
+- https://forum.golangbridge.org/
 
 ORGANISATION
-    - https://golang.org/doc/code.html#Organization
+- https://golang.org/doc/code.html#Organization
 
 
 WORKSPACE
