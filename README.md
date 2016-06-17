@@ -7,6 +7,7 @@ All gocode stuff
 
 
 DOCUMENTATION
+- https://goo.gl/PHKgO7
 - https://godoc.org/
 - https://golang.org/ref/spec#Lexical_elements
 
@@ -18,6 +19,7 @@ TUTORIAL / SAMPLES
 BLOGS
 - http://dave.cheney.net/
 - https://appliedgo.net/
+- http://natureofcode.com/book/chapter-10-neural-networks/
 
 FORUM
 - https://forum.golangbridge.org/
