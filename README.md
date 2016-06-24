@@ -27,6 +27,9 @@ FORUM
 ORGANISATION
 - https://golang.org/doc/code.html#Organization
 
+OTHER STUFF
+- Project Euler: https://projecteuler.net/
+
 
 WORKSPACE
     development
