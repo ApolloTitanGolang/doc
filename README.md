@@ -30,6 +30,12 @@ ORGANISATION
 OTHER STUFF
 - Project Euler: https://projecteuler.net/
 
+ANIMATION STUFF (JavaScript)
+- WebGL
+- three.js
+- BabylonJS
+
+
 
 WORKSPACE
     development
