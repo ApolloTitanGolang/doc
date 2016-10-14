@@ -15,6 +15,8 @@ TUTORIAL / SAMPLES
 - https://github.com/GoesToEleven/GolangTraining
 - https://golang.org/ref/spec#Declarations_and_scope
 - http://www.golang-book.com/books/web/01-02
+- https://gobyexample.com/
+- http://www.golang-book.com/books/intro/6
 
 BLOGS
 - http://dave.cheney.net/
